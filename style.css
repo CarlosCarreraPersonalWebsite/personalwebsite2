@@ -1,0 +1,118 @@
+body{
+    background-image:url(https://png.pngtree.com/thumb_back/fh260/background/20200917/pngtree-blue-color-abstract-background-image_398888.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    padding: 15px;
+}
+nav{
+    float: right;
+    margin-top: 4px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+.name{
+    font-size: 50px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    float: left;
+}
+
+.homepage{
+    border: solid 2px black;
+    background-color: black;
+    color: white;
+}
+
+img{
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.5);
+}
+
+.computerimage{
+    margin-left: 500px;
+    padding-top: 50px
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+footer{
+    text-align: center;
+}
+
+.text1{
+    font-size: 40px;
+    font-family: cursive;
+}
+
+.text2{
+    font-size: 25px
+}
+
+.hobby{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    border-bottom: solid black;
+}
+
+.section1{
+    font-size: 30px;
+    border-bottom: 1px solid black;
+}
+
+.text{
+    padding-left: 130px;
+    margin-left: 100px;
+    position: absolute;
+    top: 300px;
+}
+
+.text3{
+    padding-left: 130px;
+    margin-left: 100px;
+    position: relative;
+    top: -240px;
+}
+
+.text4{
+    padding-left: 130px;
+    margin-left: 100px;
+    position: relative;
+    top: -240px;
+}
+
+.move{
+    position: relative;
+}
+
+.section2{
+display: flex;
+flex-direction: column;
+}
+
+.project{
+    border: solid;
+    background-color: white;
+    margin: 0 400px 200px 400px;
+}
+
+.portimage{
+    position: relative;
+    left: 600px;
+    bottom: 130px;
+}
+
+.portp{
+    border: 1px solid transparent;
+   margin-right: 500px;
+   font-size: 25px;
+}
+

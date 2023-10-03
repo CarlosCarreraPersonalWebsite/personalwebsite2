@@ -1,0 +1,97 @@
+body{
+    background-image:url(https://png.pngtree.com/thumb_back/fh260/background/20200917/pngtree-blue-color-abstract-background-image_398888.jpg) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.name{
+    font-size: 50px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    float: left;
+}
+
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+    padding: 15px;
+}
+
+nav{
+    float: right;
+    margin-top: 4px;
+    position: relative;
+}
+
+main{
+    position: relative;
+    top: 250px;
+    right: 150px;
+}
+
+.contact{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 45px;
+    border-bottom: solid black;
+    margin-left: 320px;
+}
+
+fieldset{
+    background-color: white;
+    color: black;
+    margin-left: 500px;
+    margin-right: 500px;
+    position: relative;
+    left: 150px;
+    padding-top: 50px;
+    padding-left:100px;
+    padding-bottom: 100px;
+}
+
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input{
+    height: 40px;
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+textarea{
+    width: 500px;
+    height: 150px;
+}
+
+button{
+    width:  70px;
+}
+
+.mailimage{
+position: relative;
+left: 830px;
+top: 100px;
+}
+
+.submit{
+    font-size: 70px;
+    position: relative;
+    left:  810px;
+    top: 60px;
+}
+
+.backhome{
+    background-color: lightskyblue;
+    border-color: lightblue;
+    border-radius: 10px;
+    width: 100px;
+    height: 45px;
+    font-size: 15px;
+    color: white;
+    position: relative;
+    left: 930px;
+    top: 40px;
+}
